@@ -52,7 +52,7 @@ Visualization Manager:
       Value: true
     - Class: rviz/Image
       Enabled: true
-      Image Topic: /tesse/left_cam/image_raw
+      Image Topic: /tesse/depth/image_raw
       Max Value: 1
       Median window: 5
       Min Value: 0
